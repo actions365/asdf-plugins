@@ -259,7 +259,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | eksctl                        | [elementalvoid/asdf-eksctl](https://github.com/elementalvoid/asdf-eksctl)                                         |
 | eks-node-viewer               | [haad/asdf-eks-node-viewer](https://github.com/haad/asdf-eks-node-viewer)                                         |
 | elixir-ls                     | [juantascon/asdf-elixir-ls](https://github.com/juantascon/asdf-elixir-ls)                                         |
-| Elasticsearch                 | [asdf-community/asdf-elasticsearch](https://github.com/asdf-community/asdf-elasticsearch)                         |
+| Elasticsearch                 | [actions365/asdf-elasticsearch](https://github.com/actions365/asdf-elasticsearch)                         |
 | Elixir                        | [asdf-vm/asdf-elixir](https://github.com/asdf-vm/asdf-elixir)                                                     |
 | Elm                           | [asdf-community/asdf-elm](https://github.com/asdf-community/asdf-elm)                                             |
 | embulk                        | [yuokada/asdf-embulk](https://github.com/yuokada/asdf-embulk)                                                     |
